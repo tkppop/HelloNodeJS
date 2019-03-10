@@ -1,0 +1,23 @@
+{
+  "name": "hellonodejs",
+  "version": "1.0.0",
+  "description": "To test NodeJS concepts",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkppop/HelloNodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tkppop/HelloNodeJS/issues"
+  },
+  "homepage": "https://github.com/tkppop/HelloNodeJS#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "yargs": "^13.2.2"
+  }
+}
